@@ -1,5 +1,10 @@
 # 高性能的简繁体转换
 
+## 安装
+```
+go get github.com/clearcodecn/sat
+```
+
 ## 基本使用方式
 ```go
 dicter := DefaultDict()
